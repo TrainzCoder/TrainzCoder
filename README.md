@@ -20,3 +20,11 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="35"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="35"/>
 </p>
+
+
+<p>
+  <a href="https://github.com/TrainzCoder">
+    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=TrainzCoder&count_private=true&theme=github_dark" />
+    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrainzCoder&theme=github_dark&layout=compact" />
+  </a>
+</p>
