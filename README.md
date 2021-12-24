@@ -2,6 +2,12 @@
 
 <p>Welcome to my page! </br> I'm Frontend developer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 
+
+<h3>Social Media & Contact</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/arya-prawira-p-870a68205/">Linkedin</a></li>
+</ul>
+
 <h3>Languages and Tools</h3>
 <p>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35" alt="javascript"/>
@@ -13,5 +19,4 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="35"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="35"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="35"/>
-
 </p>
