@@ -24,7 +24,7 @@
 <br/>
 <p>
   <a href="https://github.com/TrainzCoder">
-    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=TrainzCoder&count_private=true&theme=github_dark" />
-    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrainzCoder&theme=github_dark&layout=compact" />
+    <img height="179em" src="https://github-readme-stats.vercel.app/api?username=TrainzCoder&count_private=true&theme=github_dark" />
+    <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrainzCoder&theme=github_dark&layout=compact" />
   </a>
 </p>
