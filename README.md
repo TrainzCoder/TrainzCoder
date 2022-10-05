@@ -1,4 +1,4 @@
-<h1>Hey! I'm TrainzCoder</h1>
+<h1>Hey! I'm Arya Prawira.P</h1>
 
 <p>Welcome to my page! </br> I'm Frontend developer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 
