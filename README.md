@@ -1,4 +1,4 @@
-<h1>Hi There! I'm Arya Prawira.P<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1>Hi There!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 <p>Welcome to my github page! </br> I'm Frontend developer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 
