@@ -1,13 +1,17 @@
 <h1>Hi There!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=blue&vCenter=true&lines=Software+Engineer+💻;Up+and+Coming+AI+Developer+📊;UI+UX+Enthusiast;)](https://git.io/typing-svg)
+
 <p>Welcome to my github page! </br> I'm Software Engineer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 <p>Machine Learning Enthusiast</p>
 
 
 <h3>Social Media </h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/arya-prawira-p-870a68205/">Linkedin</a></li>
-</ul>
+<div>
+    <a href="https://www.linkedin.com/in/arya-prawira-p-870a68205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h3>Languages and Tools</h3>
 <div>
