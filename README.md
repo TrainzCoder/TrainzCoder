@@ -21,3 +21,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="80px" height="25px" alt="bootstrap">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="70px" height="25px" alt="git">
 </div>
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/trainzcoder/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainzcoder&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=trainzcoder&theme=tokyonight" alt="trainzcoder" />
+<br/>
+
