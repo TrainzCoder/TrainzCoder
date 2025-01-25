@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=blue&vCenter=true&lines=Software+Engineer+💻;Up+and+Coming+AI+Developer+📊;UI+UX+Enthusiast;)](https://git.io/typing-svg)
 
-<p>Welcome to my github page! </br> I'm Software Engineer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
-<p>Machine Learning Enthusiast</p>
+<p>Welcome to my github page! </br> I'm Project Manager and Frontend Developer from <img src="https://img.icons8.com/color/50/000000/indonesia.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 
 
 <h3>Social Media </h3>
