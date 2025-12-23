@@ -30,3 +30,6 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=trainzcoder&theme=tokyonight" alt="trainzcoder" />
 <br/>
 
+<h2>Emotional Support</h2>
+<img src="https://starrail.honeyhunterworld.com/img/character/evernight-character_action_side_icon.webp" width="100%" alt="Evernight" />
+
