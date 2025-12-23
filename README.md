@@ -26,10 +26,13 @@
 </div>
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/trainzcoder/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainzcoder&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=trainzcoder&theme=tokyonight" alt="trainzcoder" />
+<a href="https://github.com/trainzcoder/github-readme-stats"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trainzcoder&layout=compact&theme=tokyonight" /></a>
 <br/>
 
+<br/>
+
+
 <h2>Emotional Support</h2>
-<img src="https://starrail.honeyhunterworld.com/img/character/evernight-character_action_side_icon.webp" width="100%" alt="Evernight" />
+<img src="https://www.lapakgaming.com/blog/en-ph/wp-content/uploads/2025/09/Evernight-Honkai-Star-Rail.jpg" width="100%" alt="Evernight" />
+
 
